@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Rampart+One&display=swap');
+
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.note{
+    font-size: 23px;
+    color: black;
+}
+
+canvas{
+    border-radius: 12px;
+    box-shadow: 5px 5px 5px rgba(255, 255, 116, 0.657);
+}
